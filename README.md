@@ -12,5 +12,11 @@ This project only rely on some very basic python libraries:
 1. numpy
 2. time
 3. matplotlib
+
 # Examples
-![image](https://github.com/Andr0ni/MotionFluid/blob/main/Konserv.gif)
+• Non-conservative Lax scheme
+![image](https://github.com/Andr0ni/MotionFluid/blob/main/NeKonserv.gif)
+• Scheme with upwind differences
+![image](https://github.com/Andr0ni/MotionFluid/blob/main/Euler.gif)
+• Conservative Lax scheme
+![image](https://github.com/Andr0ni/MotionFluid/blob/main/NeKonserv.gif)
