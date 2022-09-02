@@ -15,8 +15,13 @@ This project only rely on some very basic python libraries:
 
 # Examples
 • Non-conservative Lax scheme
+
 ![image](https://github.com/Andr0ni/MotionFluid/blob/main/NeKonserv.gif)
+
 • Scheme with upwind differences
+
 ![image](https://github.com/Andr0ni/MotionFluid/blob/main/Euler.gif)
+
 • Conservative Lax scheme
+
 ![image](https://github.com/Andr0ni/MotionFluid/blob/main/NeKonserv.gif)
