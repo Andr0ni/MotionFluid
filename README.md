@@ -1,4 +1,4 @@
-# MotionFluid
+# SolutionOfMotionFluid
 Numerical solution of the equations of one-dimensional motion of an inviscid compressible fluid (gas) in Euler variables using the following numerical schemes:
 
 • Non-conservative Lax scheme
